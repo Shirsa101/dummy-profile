@@ -1,0 +1,38 @@
+.main-section{
+    width:400px;
+    margin:auto;
+    padding:10px;
+    box-shadow: 5px 8px 18px black;
+}
+#icon{
+    width:70px;
+    border-radius :35px;
+    float:left;
+    padding-bottom:5px;
+ }
+.user-name{
+    font-weight:bold;
+    margin-top:20px;
+    margin-left:80px;
+}
+.main-image{
+    width:400px;
+}
+#user-action{
+    width:40px;
+}
+#hinata{
+    width:20px;
+    border-radius:10px;
+    float:left;
+}
+#kakashi{
+    width:20px;
+    border-radius:10px;
+    float:left;
+}
+#kiba{
+    width:20px;
+    border-radius:10px;
+    float:left;
+}
